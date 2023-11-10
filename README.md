@@ -15,4 +15,8 @@
     <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Henrique6)](https://github.com/Samuel-Henrique6?tab=repositories)
+
 #### Contato: samuellimaarruda@gmail.com
+
+
